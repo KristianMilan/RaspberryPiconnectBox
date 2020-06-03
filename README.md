@@ -10,4 +10,5 @@ Make Raspberry Pi a bridge to connect to any network from anywhere.
 
 # Sources
 https://zerotier.atlassian.net/wiki/spaces/SD/pages/193134593/One+Port+Linux+Bridge
+https://github.com/pglez82/bridged-zerotier
 
